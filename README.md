@@ -1,4 +1,4 @@
-# Wasim
+# d209
 
 Private group chat for our apartment. Closed allowlist, Supabase backend,
 Next.js + Tailwind frontend, deployed to Vercel as an installable PWA.
